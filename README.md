@@ -6,7 +6,7 @@ This project provides a complete pipeline for document ingestion, preprocessing,
 
 ---
 
-## 📌 Overview
+## Overview
 
 Enterprise-Chatbot is designed to help organizations build a private knowledge assistant.  
 It ingests documents (such as PDFs), converts them into searchable representations, stores them in a FAISS vector store, and retrieves relevant information in response to user queries.
@@ -15,7 +15,7 @@ The architecture is modular and can be easily extended with modern large languag
 
 ---
 
-## ✨ Features
+## Features
 
 - Document ingestion and indexing
 - Text preprocessing pipeline
@@ -27,7 +27,7 @@ The architecture is modular and can be easily extended with modern large languag
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 1. Documents are loaded and parsed.
 2. Text is cleaned and preprocessed.
@@ -37,14 +37,14 @@ The architecture is modular and can be easily extended with modern large languag
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.9 or higher
 - pip
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
 
